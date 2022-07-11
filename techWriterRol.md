@@ -50,5 +50,5 @@ Los entregables son los distintos documentos que un technical writer suele escri
 
 Para finalizar el artículo y a modo de resumen sobre la profesión y la importancia del technical writer, quisiera hacer mención a la siguiente frase: **“Si no puedes explicarlo de forma sencilla, es que no lo entiendes bien.”**
 
-    **– Albert Einstein**
+**– Albert Einstein**
 
