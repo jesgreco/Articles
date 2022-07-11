@@ -1,5 +1,7 @@
 # **¿Por qué es importante tener un technical writer en el equipo?**
 
+![Image1](/articles/Picture1.png)
+
 Para responder esta pregunta, en primer lugar, podríamos empezar definiendo qué es un _technical writer_. Luego de haber leído varias definiciones, podríamos decir que un **_technical writer_** es un **profesional de la comunicación que tiene como objetivo transformar información compleja (en especial, dentro del campo de IT), en una versión simple y así, transmitirla de manera que sea fácil de entender.** Para ello, se necesita investigar sobre el tema a escribir y es esencial poder tener reuniones con los expertos, más conocidos como [SMEs](https://en.wikipedia.org/wiki/Subject-matter_expert), para que nos ayuden a comprender los distintos aspectos técnicos. 
 
 **La escritura técnica también se define como el hecho de simplificar lo complejo.** Por tal motivo, es importante que en nuestro equipo de trabajo se puedan documentar procesos complejos, siendo fácilmente comprendidos por distintos públicos. Además, esto ayuda a que los expertos se focalicen en sus tareas técnicas, en lugar de tener que estar escribiendo documentación, que les puede resultar tedioso y aburrido.
