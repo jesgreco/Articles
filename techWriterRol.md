@@ -1,6 +1,6 @@
 # **¿Por qué es importante tener un technical writer en el equipo?**
 
-Para responder esta pregunta, en primer lugar, podríamos empezar definiendo qué es un _technical writer_. Luego de haber leído varias definiciones, podríamos decir que un **_technical writer_** es un **profesional de la comunicación que tiene como objetivo transformar información compleja (en especial, dentro del campo de IT), en una versión simple y así, transmitirla de manera que sea fácil de entender.** Para ello, se necesita investigar sobre el tema a escribir y es esencial poder tener reuniones con los expertos (SMEs) para que nos ayuden a comprender los distintos aspectos técnicos. 
+Para responder esta pregunta, en primer lugar, podríamos empezar definiendo qué es un _technical writer_. Luego de haber leído varias definiciones, podríamos decir que un **_technical writer_** es un **profesional de la comunicación que tiene como objetivo transformar información compleja (en especial, dentro del campo de IT), en una versión simple y así, transmitirla de manera que sea fácil de entender.** Para ello, se necesita investigar sobre el tema a escribir y es esencial poder tener reuniones con los expertos, más conocidos como [SMEs](https://en.wikipedia.org/wiki/Subject-matter_expert), para que nos ayuden a comprender los distintos aspectos técnicos. 
 
 **La escritura técnica también se define como el hecho de simplificar lo complejo.** Por tal motivo, es importante que en nuestro equipo de trabajo se puedan documentar procesos complejos, siendo fácilmente comprendidos por distintos públicos. Además, esto ayuda a que los expertos se focalicen en sus tareas técnicas, en lugar de tener que estar escribiendo documentación, que les puede resultar tedioso y aburrido.
 A su vez, el hecho de tener una buena documentación, repositorio y contenidos claros ayudará a tu organización a adquirir nuevos consumidores y conservar los que ya se tiene. 
@@ -18,11 +18,11 @@ Además de tener facilidad para escribir, los idiomas y la investigación, hay a
 - Diseño gráfico/Ilustración
 - Arquitectura de la información
 - Diseño de la información
-- Conceptos Cloud (AWS/Azure)
+- Conceptos Cloud (AWS/[Azure](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/))
 - Traducción técnica
-- UX/UI – UX writing
+- UX/UI – [UX writing](https://www.iebschool.com/blog/ux-writing-producto-digital-analitica-usabilidad/#:~:text=UX%20writing%20es%20la%20pr%C3%A1ctica,mantener%20la%20claridad%20y%20autenticidad.)
 - Diseño/Gestión Web
-- Lenguajes de programación/Markup languages (conocimiento básico): Python, SQL, HTML, XML, Markdown.
+- Lenguajes de programación/Markup languages (conocimiento básico): Python, SQL, HTML, XML, [Markdown](https://www.markdownguide.org)
 
 ## **Proceso DocOps**
 
