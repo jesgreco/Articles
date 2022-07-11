@@ -1,6 +1,6 @@
 # **¿Por qué es importante tener un technical writer en el equipo?**
 
-![Image1](/articles/Picture1.png)
+![Image1](images/Picture1.png)
 
 Para responder esta pregunta, en primer lugar, podríamos empezar definiendo qué es un _technical writer_. Luego de haber leído varias definiciones, podríamos decir que un **_technical writer_** es un **profesional de la comunicación que tiene como objetivo transformar información compleja (en especial, dentro del campo de IT), en una versión simple y así, transmitirla de manera que sea fácil de entender.** Para ello, se necesita investigar sobre el tema a escribir y es esencial poder tener reuniones con los expertos, más conocidos como [SMEs](https://en.wikipedia.org/wiki/Subject-matter_expert), para que nos ayuden a comprender los distintos aspectos técnicos. 
 
@@ -30,6 +30,8 @@ Además de tener facilidad para escribir, los idiomas y la investigación, hay a
 
 Dentro de la comunidad del technical writing, surgió el concepto de **_DocOps_**. Al igual que tenemos el proceso de _DevOps_, se denomina **proceso de _DocOps_ a los pasos a seguir cuando escribimos documentación técnica, dividido en diferentes etapas: Creación, Gestión y _Release_.** Esto sería darle un marco teórico a nuestro proceso de escritura.
 En la siguiente imagen, podemos observar los **pasos que integran el proceso de DocOps**:
+
+![Image2](images/Picture2.png)
 
 ## **Entregables**
 
