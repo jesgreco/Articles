@@ -32,11 +32,11 @@ En la siguiente imagen, podemos observar los **pasos que integran el proceso de 
 ## **Entregables**
 
 Los entregables son los distintos documentos que un technical writer suele escribir, como, por ejemplo:
-•	[White papers](https://en.wikipedia.org/wiki/White_paper)
-•	[Release notes](https://es.wikipedia.org/wiki/Notas_de_publicaci%C3%B3n)
-•	Manuales de procedimiento
-•	Tutoriales
-•	[Open API specs](https://swagger.io/specification/)
+- [White papers](https://en.wikipedia.org/wiki/White_paper)
+- [Release notes](https://es.wikipedia.org/wiki/Notas_de_publicaci%C3%B3n)
+- Manuales de procedimiento
+- Tutoriales
+- [Open API specs](https://swagger.io/specification/)
 
 ## **Tips & Tricks**
 
