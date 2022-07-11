@@ -2,6 +2,15 @@
 
 ![Image1](images/Picture1.png)
 
+## **Tabla de contenidos**
+
+- [**¿Quién puede ser un _technical writer_?**](#quién-puede-ser-un-technical-writer)
+  - [**Habilidades necesarias**](#habilidades-necesarias)
+- [**Proceso _DocOps_**](#proceso-docops)
+- [**Entregables**](#entregables)
+- [**_Tips and Tricks_**](#tips-and-tricks)
+- [**Conclusión**](#conclusión) 
+
 Para responder esta pregunta, en primer lugar, podríamos empezar definiendo qué es un _technical writer_. Luego de haber leído varias definiciones, podríamos decir que un **_technical writer_** es un **profesional de la comunicación que tiene como objetivo transformar información compleja (en especial, dentro del campo de IT), en una versión simple y así, transmitirla de manera que sea fácil de entender.** Para ello, se necesita investigar sobre el tema a escribir y es esencial poder tener reuniones con los expertos, más conocidos como [SMEs](https://en.wikipedia.org/wiki/Subject-matter_expert), para que nos ayuden a comprender los distintos aspectos técnicos. 
 
 **La escritura técnica también se define como el hecho de simplificar lo complejo.** Por tal motivo, es importante que en nuestro equipo de trabajo se puedan documentar procesos complejos, siendo fácilmente comprendidos por distintos públicos. Además, esto ayuda a que los expertos se focalicen en sus tareas técnicas, en lugar de tener que estar escribiendo documentación, que les puede resultar tedioso y aburrido.
@@ -26,7 +35,7 @@ Además de tener facilidad para escribir, los idiomas y la investigación, hay a
 - Diseño/Gestión Web
 - Lenguajes de programación/Markup languages (conocimiento básico): Python, SQL, HTML, XML, [Markdown](https://www.markdownguide.org)
 
-## **Proceso DocOps**
+## **Proceso _DocOps_**
 
 Dentro de la comunidad del technical writing, surgió el concepto de **_DocOps_**. Al igual que tenemos el proceso de _DevOps_, se denomina **proceso de _DocOps_ a los pasos a seguir cuando escribimos documentación técnica, dividido en diferentes etapas: Creación, Gestión y _Release_.** Esto sería darle un marco teórico a nuestro proceso de escritura.
 En la siguiente imagen, podemos observar los **pasos que integran el proceso de DocOps**:
@@ -42,7 +51,7 @@ Los entregables son los distintos documentos que un technical writer suele escri
 - Tutoriales
 - [Open API specs](https://swagger.io/specification/)
 
-## **Tips & Tricks**
+## **_Tips and Tricks_**
 
 1)	**Conocer al público lector.** Antes de comenzar a escribir cualquier borrador, es muy importante saber a quiénes o quién será dirigido el documento que estás escribiendo. Por ejemplo, no es lo mismo dar por sentado algunas siglas, que tener que incluir el detalle. Cuando tenemos más de un público (por ejemplo, usuarios en general vs. expertos) es necesario incluir títulos donde separen la información más técnica de la más general para que el lector elija qué parte leer. 
 2)	**Investigar.** La recolección de información de diferentes fuentes confiables siempre es un must en esta profesión. Luego, se necesita analizarla para después entender más fácilmente cómo escribiremos nuestro documento.
